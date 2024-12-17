@@ -1,0 +1,48 @@
+
+body{
+    background-color: #FFF3E4;
+ 
+} 
+
+ .first-section {
+    margin-top: 50px;
+    margin-bottom: 20px;
+} 
+ .first-section h3{
+    font-size: 40px;
+    font-weight: 600;
+} 
+
+
+.card-section{
+    margin-top: 60px;
+}
+
+ .btn1{
+    padding: 10px 25px;
+    border-radius: 5px;
+    background-color: #BD9354;
+    color: white;
+    border: none;
+} 
+.btn1:hover{
+    background-color: burlywood;
+} 
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
