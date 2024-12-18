@@ -5,7 +5,7 @@ body{
 } 
 
  .first-section {
-    margin-top: 50px;
+    margin-top: 60px;
     margin-bottom: 20px;
 } 
  .first-section h3{
@@ -14,12 +14,42 @@ body{
 } 
 
 
-.card-section{
-    margin-top: 60px;
+ .firstd {
+    margin-top: 120px;
+ }
+
+.firstd p{
+    line-height: 1.5em;
+    color: #333;
+    margin-top: 0;
+    margin-bottom: 40px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+}
+.firstd h3{
+    font-family: Montserrat;
+    font-size: 32px;
+    font-weight: 600;
+    margin-bottom: 16px;
+    color: #333;
+    line-height: 1.5em;
+    margin-top: 0;
+}
+
+
+
+.middle{
+    padding-top: 80px;
+    padding-bottom: 80px;
+    text-align: center;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: rgb(237,220,194);
 }
 
  .btn1{
-    padding: 10px 25px;
+    padding: 12px 25px;
     border-radius: 5px;
     background-color: #BD9354;
     color: white;
@@ -28,10 +58,39 @@ body{
 .btn1:hover{
     background-color: burlywood;
 } 
+
+.cartbtn {
+    height: 50px; 
+    background-color:#BD9354; 
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.cartbtn:hover{
+    background-color:goldenrod;
+}
+
+
+.img-part{
+    margin-top: 50px;
+}
     
+.txt-1{
+  
+    background-color: #EDDCC2;
+}
 
-
-
+.txt-1 p{
+  justify-self: center;
+    line-height: 1.5em;
+    color: #333;
+    margin-top: 0;
+    margin-bottom: 40px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+}
 
 
 
