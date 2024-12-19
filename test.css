@@ -1,24 +1,24 @@
-
-body{
+body {
     background-color: #FFF3E4;
- 
-} 
 
- .first-section {
+}
+
+.first-section {
     margin-top: 60px;
     margin-bottom: 20px;
-} 
- .first-section h3{
+}
+
+.first-section h3 {
     font-size: 40px;
     font-weight: 600;
-} 
+}
 
 
- .firstd {
+.firstd {
     margin-top: 120px;
- }
+}
 
-.firstd p{
+.firstd p {
     line-height: 1.5em;
     color: #333;
     margin-top: 0;
@@ -27,7 +27,8 @@ body{
     font-size: 16px;
     font-weight: 400;
 }
-.firstd h3{
+
+.firstd h3 {
     font-family: Montserrat;
     font-size: 32px;
     font-weight: 600;
@@ -39,50 +40,52 @@ body{
 
 
 
-.middle{
+.middle {
     padding-top: 80px;
-    padding-bottom: 80px;
+    /* padding-bottom: 10px; */
     text-align: center;
     padding-left: 40px;
     padding-right: 40px;
-    background-color: rgb(237,220,194);
+    background-color: rgb(237, 220, 194);
 }
 
- .btn1{
+.btn1 {
     padding: 12px 25px;
     border-radius: 5px;
     background-color: #BD9354;
     color: white;
     border: none;
-} 
-.btn1:hover{
+    margin-bottom: 10px;
+}
+
+.btn1:hover {
     background-color: burlywood;
-} 
+}
 
 .cartbtn {
-    height: 50px; 
-    background-color:#BD9354; 
+    height: 50px;
+    background-color: #BD9354;
     color: white;
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
 }
 
-.cartbtn:hover{
-    background-color:goldenrod;
+.cartbtn:hover {
+    background-color: goldenrod;
 }
 
 
-.img-part{
+.img-part {
     margin-top: 50px;
 }
-    
-.txt-1{
-  
+
+.txt-1 {
+
     background-color: #EDDCC2;
 }
 
-.txt-1 p{
-  justify-self: center;
+.txt-1 p {
+    justify-self: center;
     line-height: 1.5em;
     color: #333;
     margin-top: 0;
@@ -91,17 +94,3 @@ body{
     font-size: 16px;
     font-weight: 400;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
